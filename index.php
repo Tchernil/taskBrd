@@ -1,4 +1,4 @@
 <?php
 /* comment */
 
-echo "Hello World ss";
+print_r $_FILES;
